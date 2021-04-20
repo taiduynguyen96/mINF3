@@ -16,6 +16,7 @@ import view.View;
 /**
  *
  * @author nguyenta71300
+ * Kommentar
  */
 public class Start
 {
